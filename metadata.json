@@ -1,0 +1,9 @@
+{
+  "name": "AVAY - Smart Women Safety System",
+  "description": "A user-consent based emergency safety app providing rapid-response automation through voice triggers, location tracking, and media backup.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
